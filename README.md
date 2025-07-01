@@ -27,7 +27,7 @@
 👩‍💻 Trabajando como:
 
 * Profesor de Programacion
-* Programdor Freelancer (full stack)
+* Programador Freelancer (full stack)
 * Analista y Desarrollador de sistemas
 
 🧠 Aprendiendo:
