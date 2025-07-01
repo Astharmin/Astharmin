@@ -1,6 +1,3 @@
-<-----el que lo lea es gey----->
-<---- te amo Sai ------> 
-
 # ¡Hola! 👋 Me dicen Astharmin
 
 🚀 **Full Stack Developer** en proceso, apasionado por crear aprender e innovar en las tecnologias y desarrollo.
