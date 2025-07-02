@@ -37,7 +37,6 @@
 
 ## ⚡ Datos curiosos  
 
-- 😄 Pronombres: Él (que lo lea es gey).
 - 🎮 Me encanta jugar en mi tiempo libre.
 - 📚 Adoro leer libros, especialmente los de temas belicos. 
 - ⚔️ Fanático del mundo de la fantasía épica.  
