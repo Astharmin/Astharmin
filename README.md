@@ -42,7 +42,6 @@
 - ⚔️ Fanático del mundo de la fantasía épica.  
 
 ## 📊 Estadísticas de GitHub
-
-[![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical)](https://github.com/Astharmin)
+[![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&random=1)](https://github.com/Astharmin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical)](https://github.com/Astharmin)
