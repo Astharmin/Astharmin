@@ -30,11 +30,6 @@
 * Programador Freelancer (full stack)
 * Analista y Desarrollador de sistemas
 
-🧠 Aprendiendo:
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-
-
 ## ⚡ Datos curiosos  
 
 - 🎮 Me encanta jugar en mi tiempo libre.
