@@ -45,4 +45,4 @@
 
 [![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical)](https://github.com/Astharmin)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical)](https://github.com/Astharmin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical)](https://github.com/Astharmin)
