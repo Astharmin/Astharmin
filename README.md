@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Me dicen Astharmin
 
-> 🚀 *Soy **Full Stack Developer**, apasionado por crear aprender e innovar en las tecnologias y desarrollo.*
+> 🚀 *Soy **Full Stack Developer**, apasionado por crear, aprender e innovar en las tecnologias y desarrollo.*
 
 ## 🛠️ Tecnologías y Habilidades
 
