@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Me dicen Astharmin
 
-> 🚀 *Soy **Full Stack Developer** y **Profesor de programacion**, apasionado por crear, aprender e innovar en las tecnologias y desarrollo.*
+> 🚀 **Full Stack Developer | Profesor de Programación**
+Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras SYSTEMAS.
 
 ## 🛠️ Tecnologías y Habilidades
 
