@@ -29,8 +29,9 @@ Apasionado por la innovación tecnológica y la formación de nuevas generacione
 
 ### Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
 ## 💼 Actualmente...
 
