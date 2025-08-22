@@ -1,43 +1,54 @@
-# ¡Hola! 👋 Me dicen Astharmin
+# ¡Hola! 👋 Soy Astharmin
 
-> 🚀 **Full Stack Developer**, **Profesor de Programación** y **Analsista y desarrollador de Sistemas**
+> 🚀 **Full Stack Developer** | **Profesor de Programación** | **Analista y Desarrollador de Sistemas**
 
-Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras SYSTEMAS.
+Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras en relacio con TI y SISTEMAS.
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠 Tecnologías Utilizadas
 
-### Lenguajes de Programación  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-### Bases de Datos  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### Frameworks & Herramientas  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-## 🌱 Actualmente...
+### Bases de Datos
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-👩‍💻 Trabajando como:
+### Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 
-* Profesor de Programacion
-* Programador Freelancer (full stack)
-* Analista y Desarrollador de sistemas
+## 💼 Actualmente...
 
-## ⚡ Datos curiosos  
+👨‍💻 **Trabajando como:**
+- 🎓 Profesor de Programación
+- 💻 Programador Freelancer (Full Stack)
+- 📊 Analista y Desarrollador de Sistemas
 
-- 🎮 Me encanta jugar en mi tiempo libre.
-- 📚 Adoro leer libros, especialmente los de temas belicos.
-- ⚔️ Fanático del mundo de la fantasía épica.  
+## ⚡ Datos Curiosos
+- 🎮 Apasionado de los videojuegos en mi tiempo libre
+- 📚 Lector ávido de temas bélicos y estratégicos
+- ⚔️ Fanático del mundo de la fantasía épica
+- 🚀 Siempre aprendiendo nuevas tecnologías
 
 ## 📊 Estadísticas de GitHub
-[![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&random=1)](https://github.com/Astharmin)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&hide_title=true)](https://github.com/Astharmin)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical&hide_border=true)](https://github.com/Astharmin)
+
+---
