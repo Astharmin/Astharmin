@@ -1,4 +1,4 @@
-<!-- si lees esto me debes ⭐ en mis repos, por chismoso! -->
+<!-- si te metes aqui me debes ⭐ en mis repos, por chismoso! -->
 
 # ¡Hola! 👋 Soy Astharmin
 
