@@ -4,7 +4,7 @@
 
 > 🚀 **Full Stack Developer** | **Profesor de Programación** | **Analista y Desarrollador de Sistemas**
 
-Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras en relacio con TI y SISTEMAS.
+Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras en relacion con TI y SISTEMAS.
 
 ## 🛠 Tecnologías Utilizadas
 
