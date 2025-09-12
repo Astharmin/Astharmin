@@ -6,7 +6,7 @@
 
 Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras en relacion con TI y SISTEMAS.
 
-## 🛠 Tecnologías Utilizadas
+## 🛠 Tecnologías Usadas
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -48,10 +48,10 @@ Apasionado por la innovación tecnológica y la formación de nuevas generacione
 - ⚔️ Fanático del mundo de la fantasía épica
 - 🚀 Siempre aprendiendo nuevas tecnologías
 
+---
+
 ## 📊 Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&hide_title=true)](https://github.com/Astharmin)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical&hide_border=true)](https://github.com/Astharmin)
-
----
