@@ -1,5 +1,5 @@
 <!-- si te metes aqui me debes ⭐ en mis repos, por chismoso! -->
-
+---
 # ¡Hola! 👋 Soy Astharmin
 
 > 🚀 **Full Stack Developer** | **Profesor de Programación** | **Analista y Desarrollador de Sistemas**
