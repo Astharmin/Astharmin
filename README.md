@@ -52,6 +52,6 @@ Apasionado por la innovación tecnológica y la formación de nuevas generacione
 
 ## 📊 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&hide_title=true)](https://github.com/Astharmin)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&hideborder=truetitle=true)](https://github.com/Astharmin)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical&hide_border=true)](https://github.com/Astharmin)
