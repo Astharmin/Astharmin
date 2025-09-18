@@ -1,57 +1,138 @@
-<!-- si te metes aqui me debes ⭐ en mis repos, por chismoso! -->
----
-# ¡Hola! 👋 Soy Astharmin
+<!-- Si lees esto, déjame una ⭐ en mis repos, por chismoso -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=200&section=header&text=¡Bienvenid@%20a%20mi%20perfil!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
-> 🚀 **Full Stack Developer** | **Profesor de Programación** | **Analista y Desarrollador de Sistemas**
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdwdmdydDN1a3J6NnRpOWVlYWllNTJxbnNncXJyeG1wYWVyY28xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
 
-Apasionado por la innovación tecnológica y la formación de nuevas generaciones en el mundo del desarrollo. Mi misión: crear soluciones impactantes mientras comparto conocimiento para impulsar el crecimiento de las carreras en relacion con TI y SISTEMAS.
+<h2>👋 ¡Hola! Soy Astharmin </h2>
+</div>
 
-## 🛠 Tecnologías Usadas
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=1A2A6C&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FullStack+Developer++|++Python+Specialist.;AI+Enthusiast++|++Tech+Educator." alt="Astharmin's passion SVG"/>
+</h3>
 
-### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> </p>
 
-### Frontend & Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- 🔭 Actualmente trabajo en **Programador Freelancer**
 
-### Bases de Datos
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+- 🎓 Profesor de **Programación Orientada a Objetos**
 
-### Herramientas de Desarrollo
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
-
-## 💼 Actualmente...
-
-👨‍💻 **Trabajando como:**
-- 🎓 Profesor de Programación
-- 💻 Programador Freelancer (Full Stack)
 - 📊 Analista y Desarrollador de Sistemas
 
-## ⚡ Datos Curiosos
-- 🎮 Apasionado de los videojuegos en mi tiempo libre
-- 📚 Lector ávido de temas bélicos y estratégicos
-- ⚔️ Fanático del mundo de la fantasía épica
-- 🚀 Siempre aprendiendo nuevas tecnologías
+- ⚡ Dato curioso **¡Me encanta la estrategia militar y la fantasía épica!**
 
----
+ <div align="center">
+        <h1>💻 Stack Tecnológico</h1>
+ </div>
 
-## 📊 Estadísticas de GitHub
+&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="65" height="65" alt="SQL Server" />
+      <br>SQL Server
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="116"> 
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+  </tr>
+</table>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=radical&hideborder=truetitle=true)](https://github.com/Astharmin)
+### ⏲️ **Mi Rutina de Coding**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Astharmin&theme=blueberry&hide_border=true&fire=FF8C00)](https://git.io/streak-stats)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=radical&hide_border=true)](https://github.com/Astharmin)
+### 🔥 **Mis Estadísticas**
+[![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
+
+<div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=react-dark&bg_color=0d1117&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=github-light&bg_color=ffffff&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=github&bg_color=fffff&hide_border=true" alt="Astharmin's contribution graph" />
+    </picture>
+</div>
+
+
+### ✍️ Frase Inspiradora
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)
+
+<div align="center">
+
+![Thank You Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&multiline=true&width=700&height=80&lines=¡Gracias+por+visitar+mi+perfil!;Espero+que+te+hayas+inspirado.)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=75&section=footer&animation=fadeIn" />
+</p>
