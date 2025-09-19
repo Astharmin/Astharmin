@@ -107,8 +107,6 @@
   </tr>
 </table>
 
-### ⏲️ **Mi Rutina de Coding**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Astharmin&theme=blueberry&hide_border=true&fire=FF8C00)](https://git.io/streak-stats)
 
 ### 🔥 **Mis Estadísticas**
 [![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
@@ -123,6 +121,7 @@
     </picture>
 </div>
 
+---
 
 ### ✍️ Frase Inspiradora
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)
