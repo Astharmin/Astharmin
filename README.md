@@ -6,14 +6,15 @@
     <img height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdwdmdydDN1a3J6NnRpOWVlYWllNTJxbnNncXJyeG1wYWVyY28xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
   </div>
 </div>
-<h2>👋 ¡Hola! Soy Astharmin </h2>
 </div>
-
-<h3 align="center">
+<div align="center">
+ <h2>👋 ¡Hola! Soy Astharmin 
+ <p align="center"> 👀 <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> 👀 </p>
+ </h2>
+</div>
+<h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=1A2A6C&center=true&vCenter=true&multiline=true&width=820&height=100&lines=FullStack+Web++|++Systems+Analyst+%26+Developer.;AI+Enthusiast++|++Tech+Educator." alt="Astharmin's passion SVG"/>
 </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> </p>
 
 - 🔭 Actualmente trabajo en **Programador Freelancer**
 
@@ -69,7 +70,7 @@
       <br>MySQL
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="65" height="65" alt="SQL Server" />
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="65" height="65" alt="SQLServer" />
       <br>SQL Server
     </td>
     <td align="center" width="116">
