@@ -10,10 +10,11 @@
 </div>
 
 <div align="center">
-    <h2>👋 ¡Hola! Soy Astharmin</h2>
-    <p align="center">
-        👀 <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> 👀
-    </p>
+    <h2>👋 ¡Hola! Soy Astharmin
+        <p align="center">
+            👀 <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> 👀
+        </p>
+    </h2>
 </div>
 
 <h3 align="center">
