@@ -1,9 +1,11 @@
 <!-- Si lees esto, déjame una ⭐ en mis repos, por chismoso -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=200&section=header&text=¡Bienvenid@%20a%20mi%20perfil!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
-
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdwdmdydDN1a3J6NnRpOWVlYWllNTJxbnNncXJyeG1wYWVyY28xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
-
+ <div style="position: relative;">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:b21f1f&height=200&section=header&text=¡Bienvenid@%20a%20mi%20perfil!&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <div style="position: absolute; top: 40px; right: 40px;">
+    <img height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdwdmdydDN1a3J6NnRpOWVlYWllNTJxbnNncXJyeG1wYWVyY28xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
+  </div>
+</div>
 <h2>👋 ¡Hola! Soy Astharmin </h2>
 </div>
 
@@ -122,9 +124,6 @@
 </div>
 
 ---
-
-### ✍️ Frase Inspiradora
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)
 
 <div align="center">
 
