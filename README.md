@@ -129,7 +129,8 @@
 ---
 
 <div align="center">
-    ![Thank You Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&multiline=true&width=700&height=80&lines=¡Gracias+por+visitar+mi+perfil!;Espero+que+te+hayas+inspirado.)
+
+![Thank You Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&multiline=true&width=700&height=80&lines=¡Gracias+por+visitar+mi+perfil!;Espero+que+te+hayas+inspirado.)
 </div>
 
 <p align="center">
