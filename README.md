@@ -73,7 +73,7 @@
             <br>MySQL
         </td>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=sqlserver" width="65" height="65" alt="SQLServer" />
+            <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="65" height="65" alt="SQL Server" />
             <br>SQL Server
         </td>
         <td align="center" width="116">
