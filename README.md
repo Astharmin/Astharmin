@@ -66,6 +66,12 @@
         </td>
     </tr>
     <tr>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+            <br>CSS3
+        </td>
+    </tr>
+    <tr>
         <td colspan="6" align="center">
             <h3>⚡ Frameworks & Librerías</h3>
         </td>
@@ -120,14 +126,6 @@
             <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
             <br>Firebase
         </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura BD -->
-            <br>
-        </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura BD -->
-            <br>
-        </td>
     </tr>
     <!-- Herramientas & IDEs -->
     <tr>
@@ -165,26 +163,6 @@
         <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" />
             <br>Android Studio
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-            <br>CSS3
-        </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura herramienta -->
-            <br>
-        </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura herramienta -->
-            <br>
-        </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura herramienta -->
-            <br>
-        </td>
-        <td align="center" width="116">
-            <!-- Espacio para futura herramienta -->
-            <br>
         </td>
     </tr>
 </table>
