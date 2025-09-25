@@ -53,12 +53,12 @@
             <br>C#
         </td>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-            <br>JavaScript
-        </td>
-        <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
             <br>Kotlin
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+            <br>JavaScript
         </td>
         <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
