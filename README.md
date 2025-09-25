@@ -111,6 +111,32 @@
             <br>IntelliJ
         </td>
     </tr>
+    <tr>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+            <br>Postman
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
+            <br>PyCharm
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+            <br>Visual Studio
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" />
+            <br>VS Code
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+            <br>.NET
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+            <br>Spring Boot
+        </td>
+    </tr>
 </table>
 
 ### 🔥 **Mis Estadísticas**
