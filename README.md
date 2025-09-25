@@ -33,6 +33,12 @@
 &nbsp;
 
 <table align="center">
+    <!-- Lenguajes de Programación -->
+    <tr>
+        <td colspan="6" align="center">
+            <h3>🛠️ Lenguajes de Programación</h3>
+        </td>
+    </tr>
     <tr>
         <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
@@ -51,19 +57,53 @@
             <br>JavaScript
         </td>
         <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
+            <br>Kotlin
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+            <br>HTML5
+        </td>
+    </tr>
+    <tr>
+        <td colspan="6" align="center">
+            <h3>⚡ Frameworks & Librerías</h3>
+        </td>
+    </tr>
+    <!-- Frameworks & Librerías -->
+    <tr>
+        <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
             <br>React
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
+            <br>Angular
         </td>
         <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
             <br>Node.js
         </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
+            <br>.NET
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
+            <br>Spring Boot
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+            <br>Bootstrap
+        </td>
+    </tr>
+    <!-- Bases de Datos -->
+    <tr>
+        <td colspan="6" align="center">
+            <h3>🗄️ Bases de Datos</h3>
+        </td>
     </tr>
     <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-            <br>Angular
-        </td>
         <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
             <br>PostgreSQL
@@ -81,60 +121,70 @@
             <br>Firebase
         </td>
         <td align="center" width="116">
+            <!-- Espacio para futura BD -->
+            <br>
+        </td>
+        <td align="center" width="116">
+            <!-- Espacio para futura BD -->
+            <br>
+        </td>
+    </tr>
+    <!-- Herramientas & IDEs -->
+    <tr>
+        <td colspan="6" align="center">
+            <h3>🔧 Herramientas & IDEs</h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="116">
             <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
             <br>Git
         </td>
-    </tr>
-    <tr>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-            <br>HTML5
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-            <br>CSS3
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-            <br>Bootstrap
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-            <br>Kotlin
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-            <br>Android Studio
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-            <br>IntelliJ
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+            <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
             <br>Postman
         </td>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" />
-            <br>PyCharm
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-            <br>Visual Studio
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" />
+            <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
             <br>VS Code
         </td>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-            <br>.NET
+            <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" />
+            <br>Visual Studio
         </td>
         <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-            <br>Spring Boot
+            <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
+            <br>IntelliJ
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
+            <br>PyCharm
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" />
+            <br>Android Studio
+        </td>
+        <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+            <br>CSS3
+        </td>
+        <td align="center" width="116">
+            <!-- Espacio para futura herramienta -->
+            <br>
+        </td>
+        <td align="center" width="116">
+            <!-- Espacio para futura herramienta -->
+            <br>
+        </td>
+        <td align="center" width="116">
+            <!-- Espacio para futura herramienta -->
+            <br>
+        </td>
+        <td align="center" width="116">
+            <!-- Espacio para futura herramienta -->
+            <br>
         </td>
     </tr>
 </table>
