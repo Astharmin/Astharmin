@@ -173,6 +173,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65e7d8afd8455747573d2823?variant=dark&roadmaps=devops%2Cpython%2Cgit-github)](https://roadmap.sh)
+
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=react-dark&bg_color=0d1117&hide_border=true" />
