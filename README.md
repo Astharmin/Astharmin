@@ -62,12 +62,6 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=kotlin">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
       <a href="https://github.com/Astharmin?tab=repositories&q=typescript">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
@@ -87,6 +81,12 @@
       </a>
       <br>CSS3
     </td>
+      <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=kotlin">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Kotlin
+      </td>
   </tr>
 </table>
 </div>
