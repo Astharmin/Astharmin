@@ -32,140 +32,193 @@
 
 &nbsp;
 
+## 🛠️ Lenguajes de Programación
+
+<div align="center">
 <table align="center">
-    <!-- Lenguajes de Programación -->
-    <tr>
-        <td colspan="6" align="center">
-            <h3>🛠️ Lenguajes de Programación</h3>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
-            <br>Python
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
-            <br>Java
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
-            <br>C#
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" />
-            <br>Kotlin
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
-            <br>JavaScript
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-            <br>HTML5
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-            <br>CSS3
-        </td>
-    </tr>
-    <tr>
-        <td colspan="6" align="center">
-            <h3>⚡ Frameworks & Librerías</h3>
-        </td>
-    </tr>
-    <!-- Frameworks & Librerías -->
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
-            <br>React
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
-            <br>Angular
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
-            <br>Node.js
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
-            <br>.NET
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" />
-            <br>Spring Boot
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-            <br>Bootstrap
-        </td>
-    </tr>
-    <!-- Bases de Datos -->
-    <tr>
-        <td colspan="6" align="center">
-            <h3>🗄️ Bases de Datos</h3>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-            <br>PostgreSQL
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
-            <br>MySQL
-        </td>
-        <td align="center" width="116">
-            <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="65" height="65" alt="SQL Server" />
-            <br>SQL Server
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-            <br>Firebase
-        </td>
-    </tr>
-    <!-- Herramientas & IDEs -->
-    <tr>
-        <td colspan="6" align="center">
-            <h3>🔧 Herramientas & IDEs</h3>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-            <br>Git
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
-            <br>Postman
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-            <br>VS Code
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" />
-            <br>Visual Studio
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
-            <br>IntelliJ
-        </td>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
-            <br>PyCharm
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" />
-            <br>Android Studio
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=python">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=java">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=csharp">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=javascript">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=kotlin">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="65" height="65" alt="Kotlin" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=typescript">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=html">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=css">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>CSS3
+    </td>
+  </tr>
 </table>
+</div>
+
+## ⚡ Frameworks & Librerías
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=react">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=angular">
+        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=nodejs">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=dotnet">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=spring">
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring Boot" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=bootstrap">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+</div>
+
+## 🗄️ Bases de Datos
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=mysql">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=sqlserver">
+        <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="65" height="65" alt="SQL Server" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>SQL Server
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=firebase">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+</div>
+
+## 🔧 Herramientas & IDEs
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=git">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=postman">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=vscode">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=visualstudio">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=intellij">
+        <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=pycharm">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>PyCharm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=androidstudio">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Android Studio
+    </td>
+  </tr>
+</table>
+</div>
 
 ### 🔥 **Mis Estadísticas**
 
