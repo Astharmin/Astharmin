@@ -141,15 +141,15 @@
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
+      <td align="center" width="96">
       <a href="https://github.com/Astharmin?tab=repositories&q=mysql">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
       <br>MySQL
+    </td>
+    <td align="center" width="116">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="https://github.com/Astharmin?tab=repositories&q=sqlserver">
