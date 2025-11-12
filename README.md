@@ -67,6 +67,12 @@
       </a>
       <br>TypeScript
     </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=laravel">
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Laravel
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -126,6 +132,14 @@
       </a>
       <br>Spring Boot
     </td>
+    <td align="center" width="96">
+      <a href="https://github.com/Astharmin?tab=repositories&q=flutter">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+      </a>
+      <br>Flutter
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://github.com/Astharmin?tab=repositories&q=bootstrap">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
