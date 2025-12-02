@@ -23,7 +23,7 @@
 </h3>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=8+anos+de+experiencia+en+desarrollos" alt="Descripción" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=8+anos+transformando+ideas+en+codigo;Educador+%7C+Desarrollador+%7C+Freelancer" alt="Descripción" />
 </h3>
 
 ## 🎓 Sobre Mí
