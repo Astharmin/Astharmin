@@ -13,6 +13,7 @@
     <h2>👋 ¡Hola! Soy Astharmin
         <p align="center">
             👀 <img src="https://komarev.com/ghpvc/?username=Astharmin&label=Profile%20views&color=1a2a6c&style=flat" alt="Astharmin" /> 👀
+            ⭐ <img src="https://img.shields.io/github/stars/Astharmin?color=1a2a6c&style=flat" alt="Stars" /> ⭐
         </p>
     </h2>
 </div>
@@ -21,18 +22,43 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=1A2A6C&center=true&vCenter=true&multiline=true&width=820&height=100&lines=FullStack+Web++|++Systems+Analyst+%26+Developer.;AI+Enthusiast++|++Tech+Educator." alt="Astharmin's passion SVG"/>
 </h3>
 
-- 🔭 Actualmente trabajo en **Programador Freelancer**
-- 🎓 Profesor de **Programación Orientada a Objetos**
-- 📊 Analista y Desarrollador de Sistemas
-- ⚡ Dato curioso **¡Me encanta la estrategia militar y la fantasía épica!**
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=8+anos+de+experiencia+en+desarrollos" alt="Descripción" />
+</h3>
+
+## 🎓 Sobre Mí
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>👨‍💻 Como Desarrollador</h3>
+      <ul>
+        <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack</li>
+        <li>📊 <strong>Analista y Desarrollador de Sistemas</strong></li>
+        <li>🤖 <strong>Enfocado en Python + IA</strong> (actualmente)</li>
+        <li>🌐 <strong>21 repos públicos</strong> - Código abierto y educativo</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>👨‍🏫 Como Educador</h3>
+      <ul>
+        <li>🎓 <strong>Profesor de POO</strong> - 200+ estudiantes formados</li>
+        <li>📚 <strong>Creador de contenido educativo</strong></li>
+        <li>💡 <strong>Mentor de nuevos programadores</strong></li>
+        <li>⚡ <strong>Dato curioso:</strong> ¡Me encanta la estrategia militar y la fantasía épica!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
     <h1>💻 Stack Tecnológico</h1>
+    <p><em>8+ años de experiencia diversificada</em></p>
 </div>
 
-&nbsp;
+## 🚀 Stack Completo
 
-## 🛠️ Lenguajes de Programación
+### 🛠️ Lenguajes de Programación
 
 <div align="center">
 <table align="center">
@@ -150,102 +176,93 @@
 </table>
 </div>
 
-## 🗄️ Bases de Datos
+## 📊 Bases de Datos & Herramientas
 
 <div align="center">
 <table align="center">
   <tr>
-      <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=mysql">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
-    <td align="center" width="116">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=sqlserver">
-        <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="65" height="65" alt="SQL Server" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+      <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png" width="65" height="65" alt="SQL Server" />
       <br>SQL Server
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=firebase">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
       <br>Firebase
     </td>
-  </tr>
-</table>
-</div>
-
-## 🔧 Herramientas & IDEs
-
-<div align="center">
-<table align="center">
-  <tr>
     <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=git">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=postman">
-        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=vscode">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
       <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=visualstudio">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>Visual Studio
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=intellij">
-        <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>IntelliJ
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=pycharm">
-        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>PyCharm
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/Astharmin?tab=repositories&q=androidstudio">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <br>Android Studio
     </td>
   </tr>
 </table>
 </div>
 
-### 🔥 **Mis Estadísticas**
+## 📈 Mi Journey GitHub
 
-[![Astharmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Astharmin">
+        <img src="https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&hide_border=true&border_radius=12&include_all_commits=true&count_private=false&title_color=1a2a6c&text_color=2d3748&icon_color=1a2a6c&bg_color=f8fafc&ring_color=1a2a6c" alt="Astharmin's GitHub stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Astharmin">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&hide_border=true&border_radius=12&langs_count=8&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&theme=blueberry&hide_border=true&border_radius=12)](https://github.com/Astharmin)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=minimal&bg_color=f8fafc&hide_border=true&area=true&color=1a2a6c&line=1a2a6c&point=1a2a6c" alt="Astharmin's contribution graph" />
+</div>
 
-<div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=react-dark&bg_color=0d1117&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=github-light&bg_color=ffffff&hide_border=true" />
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=github&bg_color=fffff&hide_border=true" alt="Astharmin's contribution graph" />
-    </picture>
+## 🎯 Mis Especialidades
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>👨‍🏫 Educación Tech</h3>
+      <p>Creación de contenido educativo<br>Mentoría de programación<br>Ejercicios prácticos</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 IA & Automatización</h3>
+      <p>Python + Machine Learning<br>Chatbots & Asistentes<br>Procesamiento de datos</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Full-Stack Dev</h3>
+      <p>APIs REST & Microservicios<br>Bases de datos & Optimización<br>UI/UX Responsive</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<h3>🚀 Próximo Objetivo</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=Especializacion+en+Python+%2B+IA+%2B+Integraciones;Contribuir+en+proyectos+open+source;Mentoria+para+desarrolladores+latinoamericanos" alt="Objetivos" />
+</div>
+
+<div align="center">
+<h3>🤝 ¿Interesado en colaborar?</h3>
+<p>¿Proyectos de IA? ¿Desarrollo educativo? ¿Consultoría técnica?</p>
+<p><strong>¡Hablemos! Estoy siempre abierto a nuevas oportunidades.</strong></p>
 </div>
 
 ---
