@@ -53,7 +53,6 @@
 
 <div align="center">
     <h1>💻 Stack Tecnológico</h1>
-    <p><em>8+ años de experiencia diversificada</em></p>
 </div>
 
 ## 🚀 Stack Completo
