@@ -203,6 +203,24 @@
       <br>VS Code
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" height="65" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
 </table>
 </div>
 
