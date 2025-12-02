@@ -55,8 +55,6 @@
     <h1>💻 Stack Tecnológico</h1>
 </div>
 
-## 🚀 Stack Completo
-
 ### 🛠️ Lenguajes de Programación
 
 <div align="center">
