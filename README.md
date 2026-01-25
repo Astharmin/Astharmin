@@ -33,9 +33,9 @@
     <td width="50%">
       <h3>👨‍💻 Como Desarrollador</h3>
       <ul>
-        <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack</li>
+        <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack web y Sistemas Integrados</li>
         <li>📊 <strong>Analista y Desarrollador de Sistemas</strong></li>
-        <li>🤖 <strong>Soporte tecnico y Acesorias</strong></li>
+        <li>🤖 <strong>Soporte tecnico y Acesorias + IA</strong></li>
         <li>🌐 <strong>+20 Repos públicos y contando</strong> - Código abierto y educativo</li>
       </ul>
     </td>
