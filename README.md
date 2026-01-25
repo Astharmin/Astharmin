@@ -35,8 +35,8 @@
       <ul>
         <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack</li>
         <li>📊 <strong>Analista y Desarrollador de Sistemas</strong></li>
-        <li>🤖 <strong>Enfocado en Sistemas Integrados + IA</strong> (actualmente)</li>
-        <li>🌐 <strong>21 repos públicos</strong> - Código abierto y educativo</li>
+        <li>🤖 <strong>Soporte tecnico y Acesorias</strong></li>
+        <li>🌐 <strong>+20 Repos públicos y contando</strong> - Código abierto y educativo</li>
       </ul>
     </td>
     <td width="50%">
