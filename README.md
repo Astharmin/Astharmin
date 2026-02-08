@@ -250,25 +250,20 @@
   <tr>
     <td align="center" width="33%">
       <h3>👨‍🏫 Educación Tech</h3>
-      <p>Creación de contenido educativo<br>Mentoría de programación<br>Ejercicios prácticos</p>
+      <p>° Creación de contenido educativo<br>° Mentoría de programación<br>° Ejercicios prácticos</p>
     </td>
     <td align="center" width="33%">
       <h3>🤖 IA & Automatización</h3>
-      <p>Python + Machine Learning<br>Chatbots & Asistentes<br>Procesamiento de datos</p>
+      <p>° Python + Machine Learning<br>° Chatbots & Asistentes<br>° Procesamiento de datos</p>
     </td>
     <td align="center" width="33%">
       <h3>🌐 Full-Stack Dev</h3>
-      <p>APIs REST & Microservicios<br>Bases de datos & Optimización<br>UI/UX Responsive</p>
+      <p>° APIs REST & Microservicios<br>° Bases de datos & Optimización<br>° UI/UX Responsive</p>
     </td>
   </tr>
 </table>
 
 ---
-
-<div align="center">
-<h3>🚀 Próximo Objetivo</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=Especializacion+en+Python+%2B+IA+%2B+Integraciones;Contribuir+en+proyectos+open+source;Mentoria+para+desarrolladores+latinoamericanos" alt="Objetivos" />
-</div>
 
 <div align="center">
 <h3>🤝 ¿Interesado en colaborar?</h3>
