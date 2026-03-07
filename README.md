@@ -230,17 +230,17 @@
 <table>
   <tr>
     <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astharmin&layout=compact&hide_border=true&border_radius=12&langs_count=8&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="Top Langs"/>
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Astharmin&layout=compact&hide_border=true&border_radius=12&langs_count=8&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="Top Langs"/>
     </td>
     <td width="50%">
-       <img src="https://github-readme-stats.vercel.app/api?username=Astharmin&show_icons=true&hide_border=true&border_radius=12&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="GitHub Stats"/>
-    </td>
+        <img src="https://github-readme-stats-xi-cyan.vercel.app/api?username=Astharmin&show_icons=true&hide_border=true&border_radius=12&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="GitHub Stats"/>
   </tr>
 </table>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=minimal&bg_color=f8fafc&hide_border=true&area=true&color=1a2a6c&line=1a2a6c&point=1a2a6c" alt="Astharmin's contribution graph" />
+    
 </div>
 
 ## 🎯 Mis Especialidades
