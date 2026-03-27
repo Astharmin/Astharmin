@@ -233,7 +233,7 @@
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Astharmin&layout=compact&hide_border=true&border_radius=12&langs_count=8&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc" alt="Top Langs"/>
     </td>
     <td width="50%">
-        <img src="https://github-readme-stats-xi-cyan.vercel.app/api?username=Astharmin&show_icons=true&hide_border=true&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc&border_radius=12" alt="GitHub Stats"/>
+        <img src="https://stats.jstriebel.me/api?username=Astharmin&show_icons=true&hide_border=true&title_color=1a2a6c&text_color=2d3748&bg_color=f8fafc&border_radius=12" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
