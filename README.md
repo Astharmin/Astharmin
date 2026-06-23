@@ -19,7 +19,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=1A2A6C&center=true&vCenter=true&multiline=true&width=820&height=100&lines=Systems+Analyst+%26+Developer|++FullStack+Web++|AI+Developer++|++Tech+Educator." alt="Astharmin's passion SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=1A2A6C&center=true&vCenter=true&multiline=true&width=820&height=100&lines=Systems+Analyst+%26+Developer;FullStack+Web+%7C+AI+Scientist+%7C+Tech+Educator." alt="Astharmin's passion SVG"/>
 </h3>
 
 <h3 align="center">
