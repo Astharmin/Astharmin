@@ -22,10 +22,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=1A2A6C&center=true&vCenter=true&multiline=true&width=820&height=100&lines=Systems+Analyst+%26+Developer;FullStack+Web+%7C+AI+Scientist+%7C+Tech+Educator." alt="Astharmin's passion SVG"/>
 </h3>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1A2A6C&center=true&vCenter=true&width=600&lines=8+anos+transformando+ideas+en+codigo;Educador+%7C+Desarrollador+%7C+Freelancer" alt="Descripción" />
-</h3>
-
 ## 🎓 Sobre Mí
 
 <table align="center">
@@ -35,7 +31,7 @@
       <ul>
         <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack web y Sistemas Integrados</li>
         <li>📊 <strong>Analista y Desarrollador de Sistemas</strong></li>
-        <li>🤖 <strong>Soporte tecnico y Acesorias + IA</strong></li>
+        <li>🤖 <strong>Soporte técnico y Asesorías + IA</strong></li>
         <li>🌐 <strong>+20 Repos públicos y contando</strong> - Código abierto y educativo</li>
       </ul>
     </td>
@@ -241,34 +237,11 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=minimal&bg_color=f8fafc&hide_border=true&area=true&color=1a2a6c&line=1a2a6c&point=1a2a6c" alt="Astharmin's contribution graph" />
-    
-</div>
-
-## 🎯 Mis Especialidades
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>👨‍🏫 Educación Tech</h3>
-      <p>° Creación de contenido educativo<br>° Mentoría de programación<br>° Ejercicios prácticos</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 IA & Automatización</h3>
-      <p>° Python + Machine Learning<br>° Chatbots & Asistentes<br>° Procesamiento de datos</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌐 Full-Stack Dev</h3>
-      <p>° APIs REST & Microservicios<br>° Bases de datos & Optimización<br>° UI/UX Responsive</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
 <div align="center">
 <h3>🤝 ¿Interesado en colaborar?</h3>
-<p>¿Proyectos de IA? ¿Desarrollo educativo? ¿Consultoría técnica?</p>
 <p><strong>¡Hablemos! Estoy siempre abierto a nuevas oportunidades.</strong></p>
 </div>
 
