@@ -236,7 +236,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astharmin&theme=minimal&bg_color=f8fafc&hide_border=true&area=true&color=1a2a6c&line=1a2a6c&point=1a2a6c" alt="Astharmin's contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=Astharmin&theme=minimal&hide_border=true&border_radius=12&background=f8fafc&stroke=1a2a6c&ring=1a2a6c&fire=1a2a6c&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=1a2a6c&sideLabels=1a2a6c&dates=2d3748" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -244,8 +245,6 @@
 <h3>🤝 ¿Interesado en colaborar?</h3>
 <p><strong>¡Hablemos! Estoy siempre abierto a nuevas oportunidades.</strong></p>
 </div>
-
----
 
 <div align="center">
 
