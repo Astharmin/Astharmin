@@ -27,25 +27,67 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3>👨‍💻 Como Desarrollador</h3>
+      <h3>💡 Mi Enfoque</h3>
       <ul>
-        <li>🔭 <strong>Programador Freelancer</strong> - Soluciones full-stack web y Sistemas Integrados</li>
-        <li>📊 <strong>Analista y Desarrollador de Sistemas</strong></li>
-        <li>🤖 <strong>Soporte técnico y Asesorías + IA</strong></li>
-        <li>🌐 <strong>+20 Repos públicos y contando</strong> - Código abierto y educativo</li>
+        <li>🚀 <strong>Construyo soluciones reales</strong> - Desde el análisis hasta el despliegue.</li>
+        <li>⚙️ <strong>Full-Stack & Sistemas</strong> - Conecto interfaces, APIs y bases de datos.</li>
+        <li>🧠 <strong>IA aplicada</strong> - Automatización y procesamiento de datos con Python.</li>
+        <li>🌐 <strong>+20 Repos públicos</strong> - Código abierto, documentado y compartido.</li>
       </ul>
     </td>
     <td width="50%">
       <h3>👨‍🏫 Como Educador</h3>
       <ul>
-        <li>🎓 <strong>Profesor de POO</strong> - 200+ estudiantes formados</li>
-        <li>📚 <strong>Creador de contenido educativo</strong></li>
-        <li>💡 <strong>Mentor de nuevos programadores</strong></li>
+        <li>🎓 <strong>Profesor de POO</strong> - 200+ estudiantes formados.</li>
+        <li>📚 <strong>Creador de contenido técnico</strong> - READMEs, guías y tutoriales.</li>
+        <li>💡 <strong>Mentor de nuevos programadores</strong> - Aprendizaje práctico y directo.</li>
         <li>⚡ <strong>Dato curioso:</strong> ¡Me encanta la estrategia militar y la fantasía épica!</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Proyectos Destacados
+
+Aquí una muestra de los proyectos que he construido aplicando las tecnologías de mi stack:
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>📦 SisInv+ | Sistema de Inventario (.NET)</h3>
+      <p>Solución integral para PYMES con gestión de inventario, ventas, reportes y arquitectura por capas usando <strong>C# y SQL Server</strong>.</p>
+      <a href="https://github.com/Astharmin/SisInv_MiniMark">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo SisInv">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌐 Sistema Inv | Full-Stack (Spring/Angular)</h3>
+      <p>Arquitectura completa de inventario con API RESTful en <strong>Spring Boot</strong>, seguridad JWT, y un dashboard interactivo en <strong>Angular + Bootstrap</strong>.</p>
+      <a href="https://github.com/Astharmin/Sistema_Inv">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Sistema_Inv">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Semantic ProyectTracker</h3>
+      <p>Sistema inteligente de búsqueda semántica de productos. Utiliza NLP, embeddings y bases de datos vectoriales para encontrar coincidencias por significado en lugar de palabras clave exactas.</p>
+      <a href="https://github.com/Astharmin/Semantic_ProyectTracker">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Semantic">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌠 Meteoritos Arcade</h3>
+      <p>Juego arcade con arquitectura híbrida en la nube: frontend interactivo con <strong>React/TypeScript</strong> y motor de juego en <strong>Python (Pygame)</strong> conectados en tiempo real.</p>
+      <a href="https://github.com/Astharmin/PyGame_Proyect">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Meteoritos">
+      </a>
+    </td>
+  </tr>
+</table>
+---
 
 <div align="center">
     <h1>💻 Stack Tecnológico</h1>
