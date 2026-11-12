@@ -47,8 +47,6 @@
   </tr>
 </table>
 
----
-
 ## 🚀 Proyectos Destacados
 
 Aquí una muestra de los proyectos que he construido aplicando las tecnologías de mi stack:
@@ -87,7 +85,6 @@ Aquí una muestra de los proyectos que he construido aplicando las tecnologías 
     </td>
   </tr>
 </table>
----
 
 <div align="center">
     <h1>💻 Stack Tecnológico</h1>
