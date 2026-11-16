@@ -46,49 +46,6 @@
   </tr>
 </table>
 
-## 🚀 Proyectos Destacados
-
-Aquí una muestra de los proyectos que he construido aplicando las tecnologías de mi stack:
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>📦 SisInv+ | Sistema de Inventario (.NET)</h3>
-      <p>Solución integral para PYMES con gestión de inventario, ventas, reportes y arquitectura por capas usando <strong>C# y SQL Server</strong>.</p>
-      <a href="https://github.com/Astharmin/SisInv_MiniMark">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo SisInv">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🌐 Sistema Inv | Full-Stack (Spring/Angular)</h3>
-      <p>Arquitectura completa de inventario con API RESTful en <strong>Spring Boot</strong>, seguridad JWT, y un dashboard interactivo en <strong>Angular + Bootstrap</strong>.</p>
-      <a href="https://github.com/Astharmin/Sistema_Inv">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Sistema_Inv">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Semantic ProyectTracker</h3>
-      <p>Sistema inteligente de búsqueda semántica de productos. Utiliza NLP, embeddings y bases de datos vectoriales para encontrar coincidencias por significado en lugar de palabras clave exactas.</p>
-      <a href="https://github.com/Astharmin/Semantic_ProyectTracker">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Semantic">
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🌠 Meteoritos Arcade</h3>
-      <p>Juego arcade con arquitectura híbrida en la nube: frontend interactivo con <strong>React/TypeScript</strong> y motor de juego en <strong>Python (Pygame)</strong> conectados en tiempo real.</p>
-      <a href="https://github.com/Astharmin/PyGame_Proyect">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Meteoritos">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-    <h1>💻 Stack Tecnológico</h1>
-</div>
-
 ### 🛠️ Lenguajes de Programación
 
 <div align="center">
@@ -256,6 +213,49 @@ Aquí una muestra de los proyectos que he construido aplicando las tecnologías 
     </td>
   </tr>
 </table>
+</div>
+
+## 🚀 Proyectos Destacados
+
+Aquí una muestra de los proyectos que he construido aplicando las tecnologías de mi stack:
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>📦 SisInv+ | Sistema de Inventario (.NET)</h3>
+      <p>Solución integral para PYMES con gestión de inventario, ventas, reportes y arquitectura por capas usando <strong>C# y SQL Server</strong>.</p>
+      <a href="https://github.com/Astharmin/SisInv_MiniMark">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo SisInv">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌐 Sistema Inv | Full-Stack (Spring/Angular)</h3>
+      <p>Arquitectura completa de inventario con API RESTful en <strong>Spring Boot</strong>, seguridad JWT, y un dashboard interactivo en <strong>Angular + Bootstrap</strong>.</p>
+      <a href="https://github.com/Astharmin/Sistema_Inv">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Sistema_Inv">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Semantic ProyectTracker</h3>
+      <p>Sistema inteligente de búsqueda semántica de productos. Utiliza NLP, embeddings y bases de datos vectoriales para encontrar coincidencias por significado en lugar de palabras clave exactas.</p>
+      <a href="https://github.com/Astharmin/Semantic_ProyectTracker">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Semantic">
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌠 Meteoritos Arcade</h3>
+      <p>Juego arcade con arquitectura híbrida en la nube: frontend interactivo con <strong>React/TypeScript</strong> y motor de juego en <strong>Python (Pygame)</strong> conectados en tiempo real.</p>
+      <a href="https://github.com/Astharmin/PyGame_Proyect">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo Meteoritos">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+    <h1>💻 Stack Tecnológico</h1>
 </div>
 
 ## 📈 Mi Journey GitHub
